@@ -129,3 +129,5 @@ average_heat_level(spicy_foods)
 
 [ruby docs enumerable]: https://ruby-doc.org/core-2.7.3/Enumerable.html
 [sum method]: https://ruby-doc.org/core-2.7.3/Enumerable.html#method-i-sum
+
+https://github.com/G3o-R/phase-3-enumerables-lab
